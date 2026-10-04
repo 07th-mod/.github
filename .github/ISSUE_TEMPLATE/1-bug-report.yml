@@ -41,7 +41,7 @@ body:
       label: Emulation Layer
       description: What emulation layer are you using (if not sure leave blank)?
       options:
-        - None
+        - Native (no emulation layer)
         - Wine
         - Proton
       default: 0

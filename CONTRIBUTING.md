@@ -17,15 +17,13 @@ We ask that you clearly mark if you use an LLM for:
 
 We strongly recommend you write the majority of the report/PR description yourself, so that we know what you intended to submit (rather than what the LLM intended to submit).
 
-## 1.3 Regarding Mostly or Fully LLM Pull Requests/Contributions
+## 1.3 Regarding Large Pull Requests/Contributions
 
-**Please make sure to disclose any LLM usage in your submission**, for our own record keeping.
+We only accept contributions which we fully read and understand. As we don't have as much time these days, and the project is mostly in the maintenance stage, we generally wouldn't accept large PRs - however you can still attempt to submit a PR anyway for discussion, or you can contact us separately to explain what you're trying to do, before starting any major work.
 
-We generally don't accept large LLM contributions to any codebase to prevent unexpected regressions in the existing code, and to ensure it is maintainable by our team (we can't rely on pull request authors to maintain the code they've submitted). As this project is in the maintenance phase, stability is the number one priority. 
+This is mainly in the LLM section because LLMs make it easier to generate large code changes, but it can be applied to manually written code too. We may also need to ask questions of the author about the code, which may be difficult if the author doesn't understand it fully.
 
-If the contribution is small enough that we can check it easily, then we would generally accept it after checking it over ourselves.
-
-If you still want to make a large contribution where the majority of the code changes would be unsupervised, please contact the team first to discuss.
+Also consider the maintenance impact of your contribution - if you are no longer around to maintain it yourself, then the team would need spend time maintaining it, or roll back your contribution.
 
 # 2 General Contribution Guidelines
 

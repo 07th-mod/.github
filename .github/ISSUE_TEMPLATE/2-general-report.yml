@@ -12,9 +12,9 @@ body:
         This is a summary of our full [contribution guidelines](https://github.com/07th-mod/.github/blob/master/CONTRIBUTING.md).
 
   - type: textarea
-    id: what-happened
+    id: report-description
     attributes:
-      label: What happened?
+      label: Report Description
       description: Also tell us, what did you expect to happen?
       placeholder: Tell us what you see!
       value: "Description of the issue goes here"

@@ -1,4 +1,6 @@
-blank_issues_enabled: false
+# Allow blank issues - I found it too annoying to be forced to fill in the full
+# issue template, if the problem clearly doesn't need the issue template.
+blank_issues_enabled: true
 contact_links:
   - name: Get help on Discord
     url: https://discord.gg/pf5VhF9
